@@ -9,7 +9,7 @@ public class bubble extends Actor
                 
          if (getY() <= 0)
          {
-                 setLocation(getWorld().getHeight() + 20;
+                 setLocation(getWorld().getHeight() + 20, Greenfoot.getRandomNumber(600));
                 
          }
     }     
