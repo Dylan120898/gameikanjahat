@@ -19,15 +19,6 @@ public class fish3 extends Actor
     {
         turn (Greenfoot.getRandomNumber (50) - 20) ;
     } 
-    if (getX () <= 5 || getX() >= getWorld().getWidth () - 5)
-      
-    {
-    turn (180) ;
-    }
-    if (getY () <= 5 || getY() >= getWorld().getHeight () - 5)
-    {
-        turn (180) ;
-    }
    }    
 }
 
