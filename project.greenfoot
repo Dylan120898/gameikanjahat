@@ -46,6 +46,18 @@ target3.editor.y=20
 target3.editor.x=40
 target18.width=100
 editor.fx.0.height=739
+<<<<<<< HEAD
+=======
+editor.fx.0.width=816
+editor.fx.0.x=386
+editor.fx.0.y=18
+mainWindow.height=746
+mainWindow.width=1370
+mainWindow.x=-4
+mainWindow.y=-4
+package.numDependencies=16
+package.numTargets=17
+>>>>>>> aa9ad9136187b8a9bcd078e649d00b561c17df6b
 project.charset=UTF-8
 target12.typeParameters=
 dependency15.to=fish3
