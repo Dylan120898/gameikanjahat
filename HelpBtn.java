@@ -1,11 +1,6 @@
-import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+import greenfoot.*; 
 
-/**
- * Write a description of class HelpButton here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class HelpBtn extends Buttons
 {
     /**
@@ -14,7 +9,6 @@ public class HelpBtn extends Buttons
      */
     public void act() 
     {
-        //run the Buttons class's act method and pass the name of this class to it.
         super.act(this.getClass().getName());
     }    
 }
