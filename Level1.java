@@ -31,6 +31,10 @@ public class Level1 extends Levels
      addObject(crab, 506, 668);  
      Crab crab2 = new Crab();  
      addObject(crab2, 657, 602);  
+     Crab crab2 = new Crab();  
+     addObject(crab2, 654, 645); 
+     Crab crab2 = new Crab();  
+     addObject(crab2, 657, 652);   
      IkanJahat hungryFish = new IkanJahat();  
      addObject(hungryFish, 434, 135);        
      fish fish = new fish();
