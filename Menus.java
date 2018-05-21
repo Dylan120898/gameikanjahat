@@ -22,9 +22,9 @@ abstract class Menus extends World
         super(800, 600, 1);
         if (this.getClass().getName().equalsIgnoreCase("MenuScreen"))
         {
-            addObject(new StartBtn(), 100, 100);
-            addObject(new StoryBtn(), 150, 220);
-            addObject(new HelpBtn(),  100, 300);
+            addObject(new StartBtn(), 100, 400);
+            addObject(new StoryBtn(), 150, 460);
+            addObject(new HelpBtn(),  70, 460);
                 titleSound = new GreenfootSound("title-theme.mp3");
                  titleSound.stop();
         titleSound.setVolume(70);

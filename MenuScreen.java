@@ -15,7 +15,7 @@ public class MenuScreen extends Menus
      */
     public MenuScreen()
     {    
- 
+        // Create a new world with 800x600 cells with a cell size of 1x1 pixels.
         super();
     }
 }

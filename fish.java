@@ -18,10 +18,6 @@ public class fish extends Actor
         if (Greenfoot.getRandomNumber (20) < 10)
     {
         turn (Greenfoot.getRandomNumber (50) - 20) ;
-
-
-
-
     } 
     if (getX () <= 5 || getX() >= getWorld().getWidth () - 5)
       

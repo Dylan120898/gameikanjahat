@@ -27,8 +27,6 @@ public class fish3 extends Actor
     if (getY () <= 5 || getY() >= getWorld().getHeight () - 5)
     {
         turn (180) ;
-
-
     }
    }    
 }
